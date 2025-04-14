@@ -1,7 +1,6 @@
 # mint-backgrounds-helena
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-helena?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-helena-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-helena-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-helena)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-helena`. Instead of building the
